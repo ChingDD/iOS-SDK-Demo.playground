@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='用 AVPlayerViewController 播影片'/>
+        <page name='用 AVPlayer 播音樂'/>
+        <page name='利用 SFSafariViewController 顯示網頁'/>
+        <page name='iOS SDK 顯示地圖 &amp; 地圖標記的方法'/>
+        <page name='列印時間'/>
+        <page name='使用 AVSpeechSynthesizer 講話'/>
+    </pages>
+</playground>
